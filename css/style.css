@@ -1,0 +1,26 @@
+header, footer{
+  text-align: center;
+}
+
+header{
+  font-size: 32px;
+  color: blue;
+}
+button{
+  background-color: #008CBA;
+  color: white;
+  font-size: 20px;
+}
+.div_radio{
+  margin: 10px 0;
+}
+footer{
+  padding-top: 60px;
+  color: #ada1a1;
+}
+.class_layout, .class_score{
+  font-size: 25px;
+}
+.class_score{
+  text-align: center;
+}
